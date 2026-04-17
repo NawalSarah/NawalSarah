@@ -68,14 +68,14 @@ I enjoy working on **business applications**, automating workflows, and experime
 
 ## 🌱 What Drives Me
 
-I enjoy solving real-world problems through technology — especially where **automation meets intelligence**.
+I enjoy solving real-world problems through technology - especially where **automation meets intelligence**.
 Currently working toward becoming an expert in **cloud-based AI systems**, with a long-term goal of contributing to the **healthcare industry**.
 
 ---
 
 ## 🤝 Connect with Me
 
-* 💼 LinkedIn: [YOUR_LINKEDIN_LINK]
+* 💼 LinkedIn: [https://www.linkedin.com/in/nawal-sarah/]
 
 ---
 
