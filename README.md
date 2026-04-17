@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sarah
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NawalSarah/NawalSarah/main/Sarah%20%2B%20Coffee.png" width="400" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/NawalSarah/NawalSarah/main/Sarah%20%2B%20Coffee.png" width="480" style="border-radius: 50%;" />
 </p>
 ### 🧪 QA Automation Engineer | 🤖 AI & Cloud Enthusiast
 
