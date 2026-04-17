@@ -81,9 +81,8 @@ Currently working toward becoming an expert in **cloud-based AI systems**, with 
 
 ## ⚡ Fun Fact
 
-Still figuring this part out… but probably:
 
-> I enjoy building things that make life easier — even if it starts as a small idea 🚀
+> I enjoy building things that make life easier.. even if it starts as a small idea 🚀
 
 ---
 
