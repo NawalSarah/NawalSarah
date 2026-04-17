@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarah
 
-<!--
-**NawalSarah/NawalSarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="YOUR_IMAGE_LINK_HERE" alt="profile image" width="150" style="border-radius: 50%;" />
 
-Here are some ideas to get you started:
+### 🧪 QA Automation Engineer | 🤖 AI & Cloud Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a QA Automation Engineer based in Warsaw, Poland 🇵🇱, with a strong focus on building reliable systems and exploring the intersection of **AI, automation, and cloud technologies**.
+
+I enjoy working on **business applications**, automating workflows, and experimenting with **LLMs and machine learning solutions**.
+
+---
+
+## 🚀 About Me
+
+* 🔍 QA Automation Engineer specializing in **test automation & business systems**
+* 🌍 Based in **Warsaw, Poland**
+* 🤖 Interested in **AI/ML, CI/CD, Docker, and Cloud**
+* 🧠 Currently learning **cloud platforms & AI integration**
+* 🏥 Exploring opportunities in **healthcare tech & AI-driven solutions**
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Tools:**
+
+* Python 🐍
+* Java ☕
+* Selenium 🧪
+
+**Technologies & Interests:**
+
+* CI/CD ⚙️
+* Docker 🐳
+* Machine Learning 🤖
+* Cloud Computing ☁️
+
+---
+
+## 🧩 Projects
+
+### 📱 Mobile Apps
+
+* **Expiry Date Tracker**
+  Helps manage and track product expiration dates efficiently.
+
+* **My Diary Journal**
+  A simple journaling app for daily thoughts and reflections.
+
+### 🎓 Full-Stack Project
+
+* **Student Grades Management System**
+  Built with Spring Boot — a system for managing and tracking student performance.
+
+---
+
+## 🎯 Current Focus
+
+* Building **LLM-based projects**
+* Creating **automated systems and tools**
+* Developing **mobile applications**
+* Expanding into **machine learning projects**
+* Growing skills in **cloud & AI-powered solutions**
+
+---
+
+## 🌱 What Drives Me
+
+I enjoy solving real-world problems through technology — especially where **automation meets intelligence**.
+Currently working toward becoming an expert in **cloud-based AI systems**, with a long-term goal of contributing to the **healthcare industry**.
+
+---
+
+## 🤝 Connect with Me
+
+* 💼 LinkedIn: [YOUR_LINKEDIN_LINK]
+
+---
+
+## ⚡ Fun Fact
+
+Still figuring this part out… but probably:
+
+> I enjoy building things that make life easier — even if it starts as a small idea 🚀
+
+---
+
+⭐ *Always open to collaboration, learning, and interesting projects!*
