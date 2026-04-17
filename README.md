@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Sarah
 
-<img src="YOUR_IMAGE_LINK_HERE" alt="profile image" width="150" style="border-radius: 50%;" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NawalSarah/NawalSarah/main/Sarah%20%2B%20Coffee.png" width="400" style="border-radius: 50%;" />
+</p>
 ### 🧪 QA Automation Engineer | 🤖 AI & Cloud Enthusiast
 
 I'm a QA Automation Engineer based in Warsaw, Poland 🇵🇱, with a strong focus on building reliable systems and exploring the intersection of **AI, automation, and cloud technologies**.
